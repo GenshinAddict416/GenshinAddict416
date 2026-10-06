@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Liam
 
-<!--
-**GenshinAddict416/GenshinAddict416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Lead Programmer for FRC Team 2557.
 
-Here are some ideas to get you started:
+I'm a sophomore from Washington interested in software engineering,
+systems programming, game development, and robotics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Languages
+- Rust
+- Java
+- Python
+- C
+- GDScript
+
+## Current Projects
+- ScoutingAppRebuilt
+- SOTASwervePy
+- Rusty Swarm
+- Godot Survivor Game
+
+## Experience
+- Lead Programmer, FRC Team 2557
+- Fire Mountain Scout Camp Staff (2 years)
+
+## Interests
+- Computer Science
+- Calculus
+- Physics
+- German
+- Jazz (Tenor Sax)
