@@ -2,8 +2,7 @@
 
 Lead Programmer for FRC Team 2557.
 
-I'm a sophomore from Washington interested in software engineering,
-systems programming, game development, and robotics.
+I'm a student software developer and FRC Lead Programmer focused on robotics, systems programming, and game development. I build software in Java, Python, Rust, C, and GDScript, with a particular interest in making complex systems easier to use.
 
 ## Languages
 - Rust
